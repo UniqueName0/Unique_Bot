@@ -1,0 +1,22 @@
+Lvl 1 relic : 40 mithril 10 adamantium
+Lvl 2 relic : 30 mithril 20 adamantium
+Lvl 3 relic : 20 mithril 30 adamantium
+Lvl 4 relic : 10 mithril 40 adamantium
+Lvl 5 relic : 10 ether 40 adamantium
+Lvl 6 relic : 20 ether 30 adamantium
+Lvl 7 relic : 30 ether 20 adamantium
+Lvl 8 relic : 40 ether 10 adamantium
+Lvl 9 relic : 50 ether 50 adamantium
+
+Chances for failure : 
+Lvl 1 : 0%
+Lvl 2 : 10%
+Lvl 3 : 20%
+Lvl 4 : 30%
+Lvl 5 : 40%
+Lvl 6 : 50%
+Lvl 7 : 60%
+Lvl 8 : 70 %
+Lvl 9 : 80%
+
+TOTAL: 100 mithril, 150 ether, 250 adamantium (if you somehow get 0 fails)

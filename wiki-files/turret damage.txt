@@ -1,0 +1,1 @@
+turret damage is based of your max health, not your damage. when using engineer get lots of health, not lots of damage.

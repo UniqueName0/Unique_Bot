@@ -1,0 +1,11 @@
+Souls give your relic stat buffs. Each hero soul gives a different stat, and how much of a certain stat you get is random. You cannot stack multiple souls on the same relic, max is 1 hero soul per relic. If you do put another soul on the same relic, it wipes the previous soul and adds the soul you used to replace it.
+
+Beserker gives Atk Dmg
+Knight gives Armor
+Magician gives Crit Chance
+Priest gives Recovery
+Engineer gives Health
+Chef gives Atk Speed
+Archer gives Move Speed
+Druid gives XP Gain
+Rogue gives Crit Dmg
